@@ -13,4 +13,8 @@
 
 2. [Learn HTML, CSS, and JavaScript from Scratch](./certificate_files/JZmo10Cy1vrR2WZNJFyRJzqKGyomH3.pdf)
 
-3. [Building Robust Object-Oriented Python Applications and Libraries](./certificate_files/Q1wyXPt9j7RVXOoJGsQRDMyOPQ15IK.pdf). 
+3. [Building Robust Object-Oriented Python Applications and Libraries](./certificate_files/Q1wyXPt9j7RVXOoJGsQRDMyOPQ15IK.pdf).
+
+4. [Learn Functional Programming in PHP](./certificate_files/KOnpGJIZZPjA1xvxkUnz13BQvnlrFp.pdf).
+
+5. [Modern Web Design Using Bootstrap 5 with Hands-On Projects](./certificate_files/zqJWB1q7ZgEsxr7Pj3XB1pSMqLg07XMG1t1.pdf).
